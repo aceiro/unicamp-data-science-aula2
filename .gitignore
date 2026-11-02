@@ -3,3 +3,9 @@
 __pycache__/
 .streamlit/secrets.toml
 .DS_Store
+# Gradio
+.gradio/
+
+# Certificados e chaves privadas
+*.pem
+*.key
